@@ -1,0 +1,11 @@
+#news {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+#news h5 {
+  text-align: center;
+}
